@@ -2,7 +2,10 @@
 
 Implement proguard's retrace with golang.
 
-Usage: ./go-retrace <path-to-mapping-file> <path-to-stack-trace-file>
+```
+# Usage:
+./go-retrace <path-to-mapping-file> <path-to-stack-trace-file>
+```
 
 # Reference
 ---
